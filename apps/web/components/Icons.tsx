@@ -1,5 +1,3 @@
-"use client";
-import { Home, Wallet2, Info, Users, SquareChartGantt } from "lucide-react";
+// apps/web/components/Icons.tsx
+export { Home, SquareChartGantt, Users, Wallet2, Info } from "lucide-react";
 
-
-export const Icons = { Home, Wallet2, Info, Users, SquareChartGantt };
